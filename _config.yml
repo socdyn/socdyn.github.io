@@ -6,15 +6,15 @@ highlighter:      true
 permalink:        pretty
 
 # Setup
-title:            George Berry
-tagline:          social data blog
-url:              http://georgeberry.github.io
+title:            Social Dynamics Lab
+tagline:          social science blog
+url:              http://socdyn.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           George Berry
-  url:            http://georgeberry.github.io
-  email:          geb97@cornell.edu
+  name:           SDL
+  url:            http://socdyn.github.io
+  email:          
 
 pages_list:     
   About: '/about'
@@ -24,4 +24,4 @@ pages_list:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/georgeberry/georgeb
+  repo:           https://github.com/socdyn/socdyn.github.io
