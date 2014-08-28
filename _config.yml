@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            George Berry
+tagline:          social data blog
+url:              http://georgeberry.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           George Berry
+  url:            http://georgeberry.github.io
+  email:          geb97@cornell.edu
+
+pages_list:     
+  About: '/about'
+  Archive: '/archive'
+  #Feed: '/atom.xml'
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/georgeberry/georgeb

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>George Berry</title>
+ <link href="http://georgeberry.github.io/atom.xml" rel="self"/>
+ <link href="http://georgeberry.github.io/"/>
+ <updated>2014-08-19T20:27:11-04:00</updated>
+ <id>http://georgeberry.github.io</id>
+ <author>
+   <name>George Berry</name>
+   <email>geb97@cornell.edu</email>
+ </author>
+
+ 
+ <entry>
+   <title>Finally, a sane blogging platform</title>
+   <link href="http://georgeberry.github.io//2014/08/19/first-post/"/>
+   <updated>2014-08-19T00:00:00-04:00</updated>
+   <id>http://georgeberry.github.io/2014/08/19/first-post</id>
+   <content type="html">&lt;p&gt;For awhile now, I&amp;#39;ve been meaning to start up a blog again to share thoughts on my studies and the exciting things happening in in the social sciences (and my particular discipline of sociology). I blogged a bit after college, but I find sites like &lt;a href=&quot;http://blogger.com&quot;&gt;Blogger&lt;/a&gt; and &lt;a href=&quot;http://wordpress.com&quot;&gt;Wordpress&lt;/a&gt; restrictive.&lt;/p&gt;
+
+&lt;p&gt;Today, spurred on by the release of &lt;a href=&quot;https://github.com/TheUpshot/Military-Surplus-Gear&quot;&gt;some cool data&lt;/a&gt;, I decided to look for a blogging platform. With a little help from &lt;a href=&quot;http://github.io&quot;&gt;github.io&lt;/a&gt;, &lt;a href=&quot;http://github.com/poole/poole&quot;&gt;Poole&lt;/a&gt; and a great tutorial from &lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;Joshua Lande&lt;/a&gt;, I&amp;#39;ve finally found a platform that does what I want it to do.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Beautiful code. Both inline and with Gists. &lt;/li&gt;
+&lt;li&gt;Minimal design. It&amp;#39;s a blog, not a sales pitch. Content should be front and center.&lt;/li&gt;
+&lt;li&gt;Responsive design. I want code to show correctly up on my smartphone.&lt;/li&gt;
+&lt;li&gt;Openness. If someone likes the design, they can just hop over to the &lt;a href=&quot;http://github.com/georgeberry/georgeberry.github.io&quot;&gt;GitHub repo&lt;/a&gt; to see exactly how this blog is set up.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Hopefully, I&amp;#39;ll be able to keep up with this throughout the year. Social science is only getting more exciting--with some &lt;a href=&quot;http://www.pnas.org/content/111/24/8788.abstract&quot;&gt;controversy&lt;/a&gt;--as we see large internet-mediated natural experiments. So, by impliciation, it should also be a fun time to discuss these developments. And the web is a great place to put your thoughts out there... right?&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
